@@ -33,16 +33,16 @@ Included slicers and filters for Location, Year, and Gender
 
 📥 Full Files
 
-Due to file size, the dataset, cleaned SQL outputs, and Excel dashboards are uploaded externally:
+Due to file size, the cleaned dataset is uploaded externally:
 
-- 📄 Raw Dataset
-- ✅ Cleaned Dataset
-- 📊 Excel Dashboard
+- ✅ Cleaned Dataset : https://drive.google.com/file/d/1TQ7B_knoUAjSlal6RJgI7JfeM8rIyT_a/view?usp=drive_link
 
 🚀 Tech Stack
 
 - SQL – Data cleaning, transformation, aggregation
+  -- Refer to the "DiabetesSQL.sql" in the repo
 - Excel – Dashboard creation & visualization
+  -- Refer to the "demographics_cleaned" and go to "Visual Representation" to check the created Dashboard in the repo
 - GitHub – Project hosting & documentation
 
 🔑 Key Learnings

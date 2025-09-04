@@ -1,36 +1,62 @@
-### 🩺 Diabetic Patients Dataset Analysis
+### 🩺 Diabetic Patients Dataset Analysis & Visualization
 
-A comprehensive analysis of 100,000+ diabetic patients from multiple countries and races, tracking trends, health metrics, and risk factors. This project demonstrates data cleaning, arrangement, exploratory data analysis (EDA) using SQL, and visualizations using Excel.
+This project focuses on cleaning, exploring, and visualizing a large dataset of 100,000+ diabetic patients from different countries and races using SQL and Excel. The goal was to extract insights about patient health metrics, trends over the years, and risk factors while practicing efficient data cleaning and visualization techniques.
 
-📝 Project Overview
+📊 Project Workflow
 
-This project analyzes a large dataset including:
+- Data Cleaning & Arrangement (SQL)
+- Removed duplicates, missing & inconsistent values
+- Standardized data types for BMI, blood glucose, and HbA1c levels
+- Handled categorical inconsistencies (smoking habits, race, country)
+- Final dataset is clean, structured, and ready for analysis
+- Exploratory Data Analysis (EDA)
+- Analyzed min/max ranges for key metrics (BMI, blood glucose, HbA1c)
+- Identified trends in diabetes prevalence over the years
+- Compared health metrics across smoking habits, countries, and races
+- Generated summary statistics to understand dataset distribution
+- Visualization (Excel)
 
-- 🌍 Patient demographics across countries and races
-- 📈 Yearly trends in diabetes prevalence (increase/decrease)
-- 💉 Health details such as:
--- Smoking habits 🚬
--- BMI (Body Mass Index) ⚖️
--- Blood glucose levels 🩸
--- HbA1c levels 🧪
+Built interactive dashboards with:
 
-Goal: Understand patterns, correlations, and health risk factors within diabetic populations.
+- 📈 Yearly trend of diabetes prevalence
+- 🧪 Blood Glucose and HbA1c levels and BMI with Diabetes and Smoking Behaviour
+- ⚖️ Diabetic Patients in different Races
+- 🚬 Smoking habits vs. diabetes risk across races
+- 🌎 Diabetes Patients Across the Globe
+- 💁 Diabetic Patients in Different Gender
 
-💻 Tech Stack
+Included slicers and filters for Location, Year, and Gender
+
+📷 Dashboard Preview:
+
+<img width="944" height="307" alt="image" src="https://github.com/user-attachments/assets/91ca590f-3fc9-4b8b-8a43-35ff28b52907" />
+
+📥 Full Files
+
+Due to file size, the dataset, cleaned SQL outputs, and Excel dashboards are uploaded externally:
+
+- 📄 Raw Dataset
+- ✅ Cleaned Dataset
+- 📊 Excel Dashboard
+
+🚀 Tech Stack
 
 - SQL – Data cleaning, transformation, aggregation
-- Excel – Visualizations, dashboards, and charts
+- Excel – Dashboard creation & visualization
+- GitHub – Project hosting & documentation
 
-⚡ Key Features
+🔑 Key Learnings
 
-- Cleaned and structured a large-scale dataset of diabetic patients
-- Explored correlations between smoking, BMI, and diabetes metrics
-- Visualized trends over years using Excel dashboards
-- Compared diabetic trends across races and countries
+- Handling large datasets (100k+ rows) efficiently using SQL
+- Data cleaning best practices (nulls, outliers, inconsistent formats)
+- Building insightful dashboards in Excel with slicers & filters
+- Presenting data projects professionally on GitHub
 
-📊 Visualizations
+✨ Author
 
-- Yearly trend of diabetes prevalence 📈
-- Distribution of BMI, blood glucose, and HbA1c levels 📊
-- Smoking vs. diabetes metrics across races 🚬💉
-<img width="944" height="307" alt="image" src="https://github.com/user-attachments/assets/91ca590f-3fc9-4b8b-8a43-35ff28b52907" />
+- 👤 Navnit Sinha
+- 📧 sinha.navnit2000@gmail.com
+- 🌐 [LinkedIn / Portfolio Link]
+
+⚡ This project is part of my journey into Data Analytics, combining SQL + Excel to transform raw health data into actionable insights.
+

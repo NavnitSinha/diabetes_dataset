@@ -1,6 +1,6 @@
 ### 🩺 Diabetic Patients Dataset Analysis & Visualization
 
-This project focuses on cleaning, exploring, and visualizing a large dataset of 100,000+ diabetic patients from different countries and races using SQL and Excel. The goal was to extract insights about patient health metrics, trends over the years, and risk factors while practicing efficient data cleaning and visualization techniques.
+This project focuses on cleaning, exploring, and visualizing a large dataset of 100,000 diabetic patients from different countries and races using SQL and Excel. The goal was to extract insights about patient health metrics, trends over the years, and risk factors while practicing efficient data cleaning and visualization techniques.
 
 📊 Project Workflow
 

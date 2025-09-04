@@ -56,7 +56,7 @@ Due to file size, the cleaned dataset is uploaded externally:
 
 - 👤 Navnit Sinha
 - 📧 sinha.navnit2000@gmail.com
-- 🌐 [LinkedIn / Portfolio Link]
+- 🌐 [LinkedIn](https://www.linkedin.com/in/navnitsinha-da/)
 
 ⚡ This project is part of my journey into Data Analytics, combining SQL + Excel to transform raw health data into actionable insights.
 
